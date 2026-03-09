@@ -8,6 +8,9 @@ bibliography: mis_referencias.bib
 csl: apa.csl
 ---
 
+<https://github.com/violetagm/ecoinf_violetagarrido>
+
+
 ## Piezómetros de Almería
 
 ```{r cargar_archivo, include=F}
@@ -33,14 +36,14 @@ piezometros_MASb <- piezometros |>
   count(MASb_controlada)
 
 ggplot(piezometros_MASb, aes(x = MASb_controlada, y = n)) +
-  geom_bar(stat = "identity") +
+  geom_bar(stat = "identity", fill = "blue") +
   labs(
     x = "Masa de agua subterránea",
-    y = "Número de piezómetros",
-    title = "Número de piezómetros por masa de agua subterránea"
+    y = "Nº de piezómetros",
+    title = "Nº de piezómetros por masa de agua subterránea"
   ) +
   theme_minimal() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
 ```
 
 ```{r tabla, echo=F}
