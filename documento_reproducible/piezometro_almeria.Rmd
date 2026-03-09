@@ -26,6 +26,8 @@ En Almería hay un total de **`r nrow(piezometros)-1` piezómetros**. Estos piez
 
 Dentro de la provincia de Almería existen varias masas de agua subterráneas. Por extensión, la mayor es la de *Campo de Dalías-Sierra Gádor*, muy vulnerable a la intrusión marina [@pulido_bosch_recursos_1997]. 
 
+Este es el listado de todas las masas de agua subterráneas de la provincia que están monitoreadas por los piezómetros de la red de seguimiento del MITECO.
+
 ```{r grafico, echo=F}
 piezometros_MASb <- piezometros |> 
   count(MASb_controlada)
