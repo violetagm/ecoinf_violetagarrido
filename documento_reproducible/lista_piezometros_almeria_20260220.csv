@@ -1,0 +1,99 @@
+demarcacion_hidrografica;cod_piezometro;cod_europeo;nombre;cota_terreno_msnm;MASb_controlada;provincia;municipio;n_medidas
+Guadalquivir;05.06.004;ES050ESPZ0000506004;Casablanca - Cerro las Faces;1.077;Orce - María - Cúllar;Almería;María;161
+Guadalquivir;05.06.901;ES050ESPZ0000506901;Cortijo del Aljibe - Dos;1.271;Orce - María - Cúllar;Almería;Chirivel;365
+Cuencas Mediterráneas Andaluzas;06.08.001;ES060ESBTP-06-08-001-B;El Alpargatero;565;Aguas;Almería;Tabernas;138
+Cuencas Mediterráneas Andaluzas;06.08.002;ES060ESBTP-06-08-002-B;Villaricos;405;Aguas;Almería;Sorbas;170
+Cuencas Mediterráneas Andaluzas;06.02.003;ES060ESBTP-06-02-003-B;Rambla de Partaloa;613;Alto-Medio Almanzora;Almería;Partaloa;39
+Cuencas Mediterráneas Andaluzas;06.03.001;ES060ESBTP-06-03-001-B;Margen izq río Almanzora;309;Alto-Medio Almanzora;Almería;Cantoria;179
+Cuencas Mediterráneas Andaluzas;06.06.001;ES060ESBTP-06-06-001-B;Palomares;10;Bajo Almanzora;Almería;Cuevas del Almanzora;207
+Cuencas Mediterráneas Andaluzas;06.06.003S;ES060ESBTP-06-06-003-S;Canal de Almargen;8;Bajo Almanzora;Almería;Cuevas del Almanzora;44
+Cuencas Mediterráneas Andaluzas;06.06.004S;ES060ESBTP-06-06-004-S;Bombardas;21;Bajo Almanzora;Almería;Cuevas del Almanzora;44
+Cuencas Mediterráneas Andaluzas;06.06.005S;ES060ESBTP-06-06-005-S;Ctjo. El Gato;8;Bajo Almanzora;Almería;Cuevas del Almanzora;36
+Cuencas Mediterráneas Andaluzas;06.06.007S;ES060ESBTP-06-06-007-S;Ctjo. Los Silos;65;Bajo Almanzora;Almería;Cuevas del Almanzora;41
+Cuencas Mediterráneas Andaluzas;06.06.008S;ES060ESBTP-06-06-008-S;Ctjo. Aljarilla;61;Bajo Almanzora;Almería;Cuevas del Almanzora;43
+Cuencas Mediterráneas Andaluzas;06.06.010S;ES060ESBTP-06-06-010-S;Vivero C.H.S.E.;80;Bajo Almanzora;Almería;Cuevas del Almanzora;21
+Cuencas Mediterráneas Andaluzas;06.06.016S;ES060ESBTP-06-06-016-S;La Parralera;60;Bajo Almanzora;Almería;Cuevas del Almanzora;44
+Cuencas Mediterráneas Andaluzas;06.06.018S;ES060ESBTP-06-06-018-S;San Diego;6;Bajo Almanzora;Almería;Cuevas del Almanzora;32
+Cuencas Mediterráneas Andaluzas;06.06.019S;ES060ESBTP-06-06-019-S;La Loma;35;Bajo Almanzora;Almería;Cuevas del Almanzora;44
+Cuencas Mediterráneas Andaluzas;06.13.001;ES060ESBTP-06-13-001-B;Antigua central eléctrica;952;Campo de Dalías-Sierra de Gádor;Almería;Láujar de Andarax;124
+Cuencas Mediterráneas Andaluzas;06.13.002;ES060ESBTP-06-13-002-B;La Granadina;785;Campo de Dalías-Sierra de Gádor;Almería;Fondón;125
+Cuencas Mediterráneas Andaluzas;06.13.003;ES060ESBTP-06-13-003-B;Cjo. Cacín;799;Campo de Dalías-Sierra de Gádor;Almería;Almócita;242
+Cuencas Mediterráneas Andaluzas;06.13.004;ES060ESBTP-06-13-004-B;Barranco de Alcora;653;Campo de Dalías-Sierra de Gádor;Almería;Canjáyar;132
+Cuencas Mediterráneas Andaluzas;06.13.005;ES060ESBTP-06-13-005-B;Bco. Marín;545;Campo de Dalías-Sierra de Gádor;Almería;Rágol;194
+Cuencas Mediterráneas Andaluzas;06.13.006;ES060ESBTP-06-13-006-B;Núcleo de Alhama de Almería.;606;Campo de Dalías-Sierra de Gádor;Almería;Terque;43
+Cuencas Mediterráneas Andaluzas;06.14.001;ES060ESBTP-06-14-001-B;Rbla. de Carcauz;69;Campo de Dalías-Sierra de Gádor;Almería;Mojonera, La;196
+Cuencas Mediterráneas Andaluzas;06.14.001S;ES060ESBTP-06-14-001-S;S-1;191;Campo de Dalías-Sierra de Gádor;Almería;Ejido, El;232
+Cuencas Mediterráneas Andaluzas;06.14.002;ES060ESBTP-06-14-002-B;Rbla. del Aljibe;61;Campo de Dalías-Sierra de Gádor;Almería;Vícar;176
+Cuencas Mediterráneas Andaluzas;06.14.003;ES060ESBTP-06-14-003-B;El Parador;50;Campo de Dalías-Sierra de Gádor;Almería;Roquetas de Mar;207
+Cuencas Mediterráneas Andaluzas;06.14.004;ES060ESBTP-06-14-004-B;Los Olivos;31;Campo de Dalías-Sierra de Gádor;Almería;Roquetas de Mar;205
+Cuencas Mediterráneas Andaluzas;06.14.005;ES060ESBTP-06-14-005-B;Cjos. de Marín;30;Campo de Dalías-Sierra de Gádor;Almería;Roquetas de Mar;205
+Cuencas Mediterráneas Andaluzas;06.14.006;ES060ESBTP-06-14-006-B;Rbla. de Sta. Mª del Águila;54;Campo de Dalías-Sierra de Gádor;Almería;Ejido, El;208
+Cuencas Mediterráneas Andaluzas;06.14.007;ES060ESBTP-06-14-007-B;Rbla. del Vínculo;7;Campo de Dalías-Sierra de Gádor;Almería;Roquetas de Mar;164
+Cuencas Mediterráneas Andaluzas;06.14.008;ES060ESBTP-06-14-008-B;Rbla. Hortichuelas;12;Campo de Dalías-Sierra de Gádor;Almería;Roquetas de Mar;204
+Cuencas Mediterráneas Andaluzas;06.14.009;ES060ESBTP-06-14-009-B;Tierras de Almería;49;Campo de Dalías-Sierra de Gádor;Almería;Ejido, El;203
+Cuencas Mediterráneas Andaluzas;06.14.010;ES060ESBTP-06-14-010-B;Los Atajuelos;237;Campo de Dalías-Sierra de Gádor;Almería;Dalías;200
+Cuencas Mediterráneas Andaluzas;06.14.011;ES060ESBTP-06-14-011-B;Piedras Negras;238;Campo de Dalías-Sierra de Gádor;Almería;Ejido, El;174
+Cuencas Mediterráneas Andaluzas;06.14.012;ES060ESBTP-06-14-012-B;Rbla. de Balanegra;80;Campo de Dalías-Sierra de Gádor;Almería;Ejido, El;182
+Cuencas Mediterráneas Andaluzas;06.14.013;ES060ESBTP-06-14-013-B;Castillo de Guardias Viejas;39;Campo de Dalías-Sierra de Gádor;Almería;Ejido, El;195
+Cuencas Mediterráneas Andaluzas;06.14.014;ES060ESBTP-06-14-014-B;Bco. del Palmer;100;Campo de Dalías-Sierra de Gádor;Almería;Enix;192
+Cuencas Mediterráneas Andaluzas;06.14.015;ES060ESBTP-06-14-015-B;Los Rincones;270;Campo de Dalías-Sierra de Gádor;Almería;Roquetas de Mar;176
+Cuencas Mediterráneas Andaluzas;06.11.001;ES060ESBTP-06-11-001-B;Pipaces;109;Campo de Níjar;Almería;Níjar;21
+Cuencas Mediterráneas Andaluzas;06.11.002;ES060ESBTP-06-11-002-B;Campohermoso;128;Campo de Níjar;Almería;Níjar;148
+Cuencas Mediterráneas Andaluzas;06.11.004;ES060ESBTP-06-11-004;El Barranquete;32;Campo de Níjar;Almería;Níjar;136
+Cuencas Mediterráneas Andaluzas;06.11.005;ES060ESBTP-06-11-005-B;Los Nietos de Abajo;73;Campo de Níjar;Almería;Níjar;147
+Cuencas Mediterráneas Andaluzas;06.11.006;ES060ESBTP-06-11-006-B;Rambla de Morales;8;Campo de Níjar;Almería;Almería;148
+Cuencas Mediterráneas Andaluzas;06.11.101;ES060ESBTP-06-11-101;San Isidro;122;Campo de Níjar;Almería;Níjar;203
+Cuencas Mediterráneas Andaluzas;06.11.103;ES060ESBTP-06-11-103-B;El Viso;107;Campo de Níjar;Almería;Níjar;35
+Cuencas Mediterráneas Andaluzas;06.11.203;ES060ESBTP-06-11-203-B;El Viso;104;Campo de Níjar;Almería;Níjar;159
+Cuencas Mediterráneas Andaluzas;06.09.001;ES060ESBTP-06-09-001-B;Retamares;494;Campo de Tabernas;Almería;Tabernas;277
+Cuencas Mediterráneas Andaluzas;06.05.001;ES060ESBTP-06-05-001;El Real de Antas;141;Cubeta de Ballabona-Sierra Lisbona-Río Antas;Almería;Antas;69
+Cuencas Mediterráneas Andaluzas;06.05.001B;ES060ESBTP-06-05-001-B;El Real de Antas;147;Cubeta de Ballabona-Sierra Lisbona-Río Antas;Almería;Antas;44
+Cuencas Mediterráneas Andaluzas;06.05.002;ES060ESBTP-06-05-002-B;Capellanía;231;Cubeta de Ballabona-Sierra Lisbona-Río Antas;Almería;Antas;251
+Cuencas Mediterráneas Andaluzas;06.01.001;ES060ESBTP-06-01-001-B;Pedregales;387;Cubeta de el Saltador;Almería;Huércal-Overa;242
+Cuencas Mediterráneas Andaluzas;06.01.001S;ES060ESBTP-06-01-001-S;Sondeo Iryda-El Saltador;314;Cubeta de el Saltador;Almería;Huércal-Overa;35
+Cuencas Mediterráneas Andaluzas;06.01.002;ES060ESBTP-06-01-002-B;S. Francisco;315;Cubeta de el Saltador;Almería;Huércal-Overa;123
+Cuencas Mediterráneas Andaluzas;06.01.003;ES060ESBT2440-8-0063;Los Olivos;312;Cubeta de el Saltador;Almería;Huércal-Overa;198
+Cuencas Mediterráneas Andaluzas;06.01.102;ES060ESBTP-06-01-102-B;San Francisco;315;Cubeta de el Saltador;Almería;Huércal-Overa;143
+Cuencas Mediterráneas Andaluzas;06.10.002;ES060ESBTP-06-10-002-B;Fiñana;912;Cuenca del Río Nacimiento;Almería;Fiñana;185
+Cuencas Mediterráneas Andaluzas;06.10.003;ES060ESBTP-06-10-003-B;Camino Real;809;Cuenca del Río Nacimiento;Almería;Abla;149
+Cuencas Mediterráneas Andaluzas;06.10.004;ES060ESBTS2N (IGME);Camino lavadero público;580;Cuenca del Río Nacimiento;Almería;Nacimiento;135
+Cuencas Mediterráneas Andaluzas;06.15.001;ES060ESBTP-06-15-001-B;Puente del río Adra;25;Delta del Adra;Almería;Adra;180
+Cuencas Mediterráneas Andaluzas;06.15.001S;ES060ESBTP-06-15-001-S;P-404;10;Delta del Adra;Almería;Adra;43
+Cuencas Mediterráneas Andaluzas;06.15.002;ES060ESBTP-06-15-002-B;La Algaida;12;Delta del Adra;Almería;Adra;147
+Cuencas Mediterráneas Andaluzas;06.15.003S;ES060ESBTP-06-15-003-S;P-417;7;Delta del Adra;Almería;Adra;32
+Cuencas Mediterráneas Andaluzas;06.15.004S;ES060ESBTP-06-15-004-S;P-312;7;Delta del Adra;Almería;Adra;34
+Cuencas Mediterráneas Andaluzas;06.15.005S;ES060ESBTP-06-15-005-S;P-442;4;Delta del Adra;Almería;Adra;43
+Cuencas Mediterráneas Andaluzas;06.15.007S;ES060ESBTP-06-15-007-S;P-472;3;Delta del Adra;Almería;Adra;43
+Cuencas Mediterráneas Andaluzas;06.15.010S;ES060ESBTP-06-15-010-S;P-345;10;Delta del Adra;Almería;Adra;44
+Cuencas Mediterráneas Andaluzas;06.15.011S;ES060ESBTP-06-15-011-S;P-509;3;Delta del Adra;Almería;Adra;43
+Cuencas Mediterráneas Andaluzas;06.15.012S;ES060ESBTP-06-15-012-S;P-356;4;Delta del Adra;Almería;Adra;44
+Cuencas Mediterráneas Andaluzas;06.15.013S;ES060ESBTP-06-15-013-S;P-537;9;Delta del Adra;Almería;Adra;44
+Cuencas Mediterráneas Andaluzas;06.15.015S;ES060ESBTP-06-15-015-S;P-540;9;Delta del Adra;Almería;Adra;44
+Cuencas Mediterráneas Andaluzas;06.15.019;ES060ESBTP-06-15-019-B;;14;Delta del Adra;Almería;Adra;108
+Cuencas Mediterráneas Andaluzas;06.15.019S;ES060ESBTP-06-15-019-S;P-401;23;Delta del Adra;Almería;Adra;184
+Cuencas Mediterráneas Andaluzas;06.15.021S;ES060ESBTP-06-15-021-S;P-216';60;Delta del Adra;Almería;Adra;44
+Cuencas Mediterráneas Andaluzas;06.12.001;ES060ESBTP-06-12-001-B;Cortijo de las Palmeras;248;Medio-Bajo Andarax;Almería;Alhama de Almería;80
+Cuencas Mediterráneas Andaluzas;06.12.002;ES060ESBTP-06-12-002-B;El Ricaveral;194;Medio-Bajo Andarax;Almería;Santa Fe de Mondújar;144
+Cuencas Mediterráneas Andaluzas;06.12.003;ES060ESBTP-06-12-003-B;R. Huechar;226;Medio-Bajo Andarax;Almería;Santa Fe de Mondújar;114
+Cuencas Mediterráneas Andaluzas;06.12.004;ES060ESBTP-06-12-004-B;Pechina;94;Medio-Bajo Andarax;Almería;Pechina;178
+Cuencas Mediterráneas Andaluzas;06.12.005;ES060ESBTP-06-12-005-B;Cª campamento militar;116;Medio-Bajo Andarax;Almería;Viator;143
+Cuencas Mediterráneas Andaluzas;06.12.006;ES060ESBTP-06-12-006-B;Las Gaidas;51;Medio-Bajo Andarax;Almería;Almería;145
+Cuencas Mediterráneas Andaluzas;06.12.007;ES060ESBTP-06-12-007-B;El Mami;28;Medio-Bajo Andarax;Almería;Almería;146
+Cuencas Mediterráneas Andaluzas;06.12.008;ES060ESBTP-06-12-008-B;La Cruz de Martos;17;Medio-Bajo Andarax;Almería;Almería;143
+Cuencas Mediterráneas Andaluzas;06.13.001S;ES060ESBTP-06-13-001-S;Aguas Abajo Presa M.I.;285;Oeste de Sierra de Gádor;Almería;Berja;41
+Cuencas Mediterráneas Andaluzas;06.13.002S;ES060ESBTP-06-13-002-S;Aguas Abajo Presa M.D.;273;Oeste de Sierra de Gádor;Almería;Berja;22
+Cuencas Mediterráneas Andaluzas;06.13.003S;ES060ESBTP-06-13-003-S;Peña la Jaca M.I.;799;Oeste de Sierra de Gádor;Almería;Almócita;40
+Cuencas Mediterráneas Andaluzas;06.13.004S;ES060ESBTP-06-13-004-S;Hoya del Atajo M.I.;422;Oeste de Sierra de Gádor;Almería;Berja;42
+Cuencas Mediterráneas Andaluzas;06.13.005S;ES060ESBTP-06-13-005-S;Pz-1 Boca Salida Túnel;326;Oeste de Sierra de Gádor;Almería;Berja;244
+Cuencas Mediterráneas Andaluzas;06.13.006S;ES060ESBTP-06-13-006-S;Cª Berja a la Barriada de Castala;480;Oeste de Sierra de Gádor;Almería;Berja;42
+Cuencas Mediterráneas Andaluzas;06.13.008;ES060ESBTP-06-13-008-B;Cortijo Picón;322;Oeste de Sierra de Gádor;Almería;Berja;202
+Cuencas Mediterráneas Andaluzas;06.13.010;ES060ESBTP-06-13-010-B;Rambla del Boquerón;400;Oeste de Sierra de Gádor;Almería;Berja;143
+Cuencas Mediterráneas Andaluzas;06.13.109;ES060ESBTP-06-13-109-B;Rbla. de Jurbina;298;Oeste de Sierra de Gádor;Almería;Berja;231
+Cuencas Mediterráneas Andaluzas;06.02.004;ES060ESBTP-06-02-004-B;Pinar Oria;971;Sierra de las Estancias;Almería;Oria;240
+Cuencas Mediterráneas Andaluzas;06.02.005;ES060ESBTP-06-02-005-B;Rbla. Oria;890;Sierra de las Estancias;Almería;Oria;209
+Cuencas Mediterráneas Andaluzas;06.02.006;ES060ESBTP-06-02-006-B;Rambla de Capeirola o Fraile;1.073;Sierra de las Estancias;Almería;Oria;146
+Cuencas Mediterráneas Andaluzas;06.02.101;ES060ESBTP-06-02-101-B;Rbla. Higueral;921;Sierra de las Estancias;Almería;Tíjola;209
+Segura;07.46.001;ES070ESBT07-46-001;Ermita de la Cruz;1.047;Detrítico de Chirivel-Maláguide;Almería;Chirivel;164
+Segura;07.27.001;ES070ESBT07-27-001;Los Claveses;1.260;Vélez Blanco-María;Almería;Chirivel;174
+Segura;07.27.002;ES070ESBT07-27-002;Parque Natural Los Vélez;1.218;Vélez Blanco-María;Almería;Vélez-Blanco;27
+Segura;07.27.003;ES070ESBT07-27-003;Río Claro;1.102;Vélez Blanco-María;Almería;Vélez-Blanco;67
